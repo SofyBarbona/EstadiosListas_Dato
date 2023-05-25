@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1683924887 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\estadios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estadios.h"
+	"lista.h"
+	"Personas.h"
+	"Motivo.h"
+
+1683924798 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1683924969 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Estadios.h"
+	"Personas.h"
+	"Motivo.h"
+	"lista.h"
+
+1683924798 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Personas.h"
+	"Motivo.h"
+	"lista.h"
+
+1683924899 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\personas.h
+	"lista.h"
+
+1683924798 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\lista.h
+
+1683924401 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\estadios.h
+
+1683923827 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\motivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Motivo.h"
+
+1683920754 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\ej 10\personasestadiosmotivos\motivo.h
+
